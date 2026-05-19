@@ -40,7 +40,7 @@ setup(
         'ordered-set'
     ],
     extras_require=extras,
-    package_data={'torchmeta': ['torchmeta/datasets/assets/*']},
+    package_data={'torchmeta': ['datasets/assets/*']},
     include_package_data=True,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
